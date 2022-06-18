@@ -49,8 +49,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
+  - title:             整点码头
+    url:               /paper/
+  - title:             整点薯条
+    url:               /algorithm/
   # - title:             Documentation
   #   url:               /docs/
   # - title:             About
