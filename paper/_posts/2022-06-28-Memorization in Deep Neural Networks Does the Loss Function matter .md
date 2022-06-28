@@ -6,6 +6,8 @@ tags: [memorization]
 sitemap: false
 hide_last_modified: true
 ---
+# Memorization in Deep Neural Networks: Does the Loss Function matter ?
+
 ## 摘要
 
 #### 深度神经网络经常过参数化，能够准确记忆甚至是随机标记的数据。实验研究表明没有标准正则化方法可以减少这种过拟合。我们研究了损失函数的选择是否会影响这种记忆。通过实验证明，在MNIST和CIFAR-10上，与交叉熵或平方误差损失相反，对称的损失函数可以显著提高网络抵抗这种过拟合的能力。我们提供了对记忆的鲁棒性的正式定义，并提供了为什么对称损失提供这种鲁棒性的理论解释。
