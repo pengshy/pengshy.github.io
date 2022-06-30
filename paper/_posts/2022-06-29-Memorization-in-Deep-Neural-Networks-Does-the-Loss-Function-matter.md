@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Memorization in Deep Neural Networks: 
-Does the Loss Function matter ?
 categories: [paper]
 tags: [memorization]
 sitemap: false
